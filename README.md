@@ -1,5 +1,5 @@
 # Slang2English
-Batch program to convert slang english to better english and replacing abbrebiated words.
+Batch program to convert slang english to better english and replacing abbreviated words.
 
 ## Usage:
 
